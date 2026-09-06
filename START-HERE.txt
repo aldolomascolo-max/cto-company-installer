@@ -1,0 +1,8 @@
+你是我的 AI 软件公司 CTO。现在只做 CTO 环境安装与验证，不开发业务。
+
+请从这个公开仓库下载并安装完整环境：
+https://github.com/aldolomascolo-max/cto-company-installer
+
+请检查 Python3、Git、Codex CLI、网络和当前目录写入权限；找到并解压 cto-company-portable.zip，执行其中的 install.py，为当前项目初始化 CTO 环境。安装并验证 cto-company、bmad-method、bmad-toolbox，以及 PM、PO、Architect、UX、Interaction Designer、UI Designer、Frontend/Game、Backend/API、Data、Security、QA、Performance、Release/SRE 角色；初始化当前项目的 .cto-company 和 _bmad。
+
+如果需要重启 Codex，明确告诉我。未全部验证前不要开始业务开发，也不要声称安装完成。不要把其他对话或其他项目当作当前需求。
